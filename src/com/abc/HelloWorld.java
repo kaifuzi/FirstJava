@@ -11,9 +11,10 @@ public class HelloWorld {
 		System.out.println(driver+" to BJ");
 		
 		int a=1;
-		//int b=(int)2.11;
+		int b=(int)2.11;
 		String aa="30";
 		System.out.println(a+aa);
+		System.out.println(b);
 		
 		char c='中';
 		char d='国';
