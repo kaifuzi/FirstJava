@@ -21,6 +21,7 @@ public class HelloWorld {
 		
 		int e=10;
 		int f=11;
+		System.out.println(e%f);
 		System.out.println(f%e);
 		
 	} 
