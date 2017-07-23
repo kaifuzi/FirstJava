@@ -7,6 +7,21 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World!");
 		// TODO
-		System.out.println("I have push this code to github!");
+		String driver="Lucas";
+		System.out.println(driver+" to BJ");
+		
+		int a=1;
+		//int b=(int)2.11;
+		String aa="30";
+		System.out.println(a+aa);
+		
+		char c='中';
+		char d='国';
+		System.out.println(c+0+"_"+(int)'国');
+		
+		int e=10;
+		int f=11;
+		System.out.println(f%e);
+		
 	} 
 }
